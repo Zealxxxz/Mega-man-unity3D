@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F3BF99A4-4C23-52F2-B837-43E0D2E817D3}") = "GameSample", "Assembly-CSharp.csproj", "{F35CBF15-C2D3-3B6A-0F78-2EACF0C2A39B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35CBF15-C2D3-3B6A-0F78-2EACF0C2A39B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35CBF15-C2D3-3B6A-0F78-2EACF0C2A39B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35CBF15-C2D3-3B6A-0F78-2EACF0C2A39B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35CBF15-C2D3-3B6A-0F78-2EACF0C2A39B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																																																																																																																																																																																																																																																																																																																																																	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
